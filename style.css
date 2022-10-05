@@ -62,20 +62,20 @@ button:hover{
 section{
     display: flex;
 }
-.col1{
+.info-img{
     width: 50%;
     background-image: url('/img/photo-1.jpg');
     height: 50vh;
     background-size: cover;
 }
-.col2{
+.info-content{
     width: 50vw;
     height: 50vh;
     background-color: #333333;
     color: #fff;
+    padding: 50px 30px;
+    margin: auto;
     text-align: center;
 }
-.col2 h1 , h3{
-    margin-top: 2rem;
-}
+
 
